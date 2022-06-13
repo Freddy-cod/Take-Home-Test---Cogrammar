@@ -41,7 +41,4 @@ These are my submission .Thank you !
 
 
 
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
 
