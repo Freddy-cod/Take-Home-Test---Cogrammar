@@ -8,8 +8,8 @@ def test_say_number(data, expected_output):
             data, expected_output, output)
 
 
-# test_say_number(0, 'zero')
-# test_say_number(1, 'one')
+# test_say_number(40, 'forty')
+# test_say_number(100, 'hundrend')
 # test_say_number(-1, 'negative one')
 # test_say_number(10, 'ten')
 # # test_say_number(11, 'eleven')
