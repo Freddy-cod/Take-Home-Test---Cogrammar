@@ -51,7 +51,8 @@ method applies to lists . To append an element to an existing dictionary, you ha
 results[sortedWord] += [word]
 
 ```
-To further understand the logical flow and the reasoning behind grouping anagrams , i suggest that you have a look a
+
+In terms of correctness , your code does not fullfill the specifications .To further understand the logical flow and the reasoning behind grouping anagrams , i suggest that you have a look a
 at this resource (https://www.geeksforgeeks.org/python-group-anagrams-from-given-list/)
 # Style
 
